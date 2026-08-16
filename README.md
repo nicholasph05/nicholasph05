@@ -1,63 +1,73 @@
-# Hi, I'm Nicholas 
+# Hola, soy Nicholas
 
-I'm a 9th-semester Computer Engineering student and Software Developer based in Medellín, Colombia.
+Soy estudiante de 9.º semestre de Ingeniería Informática y Software Developer, ubicado en Medellín, Colombia.
 
-I enjoy building software solutions and learning across different areas of the development lifecycle, including backend, frontend, databases, cloud, software architecture and artificial intelligence.
+Me gusta desarrollar soluciones de software y aprender en diferentes áreas del ciclo de vida del desarrollo, incluyendo backend, frontend, bases de datos, cloud, arquitectura de software e inteligencia artificial.
 
-##  About me
+## Sobre mí
 
--  Interested in Software Development
--  Backend & Full Stack Development
--  Cloud Computing
--  Software Architecture & System Design
--  Artificial Intelligence
--  SQL & NoSQL Databases
--  Looking for a professional internship starting January / February 2027
-- 🇬🇧 English B2
+- Interesado en Desarrollo de Software
+- Desarrollo Backend y Full Stack
+- Cloud Computing
+- Arquitectura de Software y System Design
+- Inteligencia Artificial
+- Bases de datos SQL y NoSQL
+- En búsqueda de prácticas profesionales para iniciar en enero / febrero de 2027
+- Inglés B2
 
-##  Tech Stack
+## Stack Tecnológico
 
-### Languages
+### Lenguajes
+
 Java · Python · JavaScript · TypeScript
 
 ### Frontend
+
 React · Vite · Angular
+
 ### Backend
+
 Node.js · Express.js · Spring Boot · Django · Flask · .NET
 
-### Databases
+### Bases de datos
+
 MySQL · PostgreSQL · SQL Server · MongoDB · MariaDB · Supabase
 
-### Cloud & DevOps
+### Cloud y DevOps
+
 Docker · Kubernetes · Vercel · Git · GitHub
 
-### Architecture
-Microservices · MVC · Layered Architecture · Distributed Systems · Design Patterns · System Design
+### Arquitectura
 
-##  Featured Projects
+Microservicios · MVC · Arquitectura Multicapa · Sistemas Distribuidos · Patrones de Diseño · System Design
+
+## Proyectos Destacados
 
 ### Practinexo
-Platform designed to centralize professional internship opportunities for students.
+
+Plataforma diseñada para centralizar oportunidades de prácticas profesionales para estudiantes.
 
 - React + Vite
 - Node.js + Express
 - MongoDB + Mongoose
-- JWT authentication
-- Protected routes
-- Skill-to-job matching module
+- Autenticación con JWT
+- Protección de rutas
+- Módulo de matching entre habilidades y ofertas
 
-### Library Management System
-Full-stack library management application.
+### Sistema de Gestión de Biblioteca
+
+Aplicación full stack para la gestión de una biblioteca.
 
 - Spring Boot
 - Spring Security
 - JWT
 - MySQL
 - React
-- Role-based access control
+- Control de acceso basado en roles
 
 ### MyC Restaurant App
-Full-stack restaurant management platform.
+
+Plataforma full stack para la gestión de un restaurante.
 
 - React
 - TypeScript
@@ -66,7 +76,7 @@ Full-stack restaurant management platform.
 - MySQL
 - MongoDB
 
-##  Contact
+## Contacto
 
 - LinkedIn: https://www.linkedin.com/in/nicholas-pareja-4316a718a/
 - Email: nicholasparejahincapie@gmail.com
